@@ -32,7 +32,7 @@ The ARM template provisions the following Azure resources:
 1. Sign in to the Azure Portal.
 2. Search for **Deploy a custom template**.
 3. Select **Build your own template in the editor**.
-4. Upload `azuredeploy.json`.
+4. Upload `vm_deploy.json`.
 5. Configure the deployment parameters.
 6. Select **Review + Create**, then **Create**.
 7. Verify that the deployment succeeds.
